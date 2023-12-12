@@ -4,7 +4,9 @@
   "pages": {
     "about": "About",
     "forBrands": "Brands",
-    "forCreators": "Creators"
+    "forCreators": "Creators",
+    "blog": "Blog",
+    "contact": "Contact"
   },
   "profileImageAlt": "Profile Image",
   "founders": {
@@ -20,5 +22,25 @@
       "experience": "Ex Elo7 (Principal ML Engineer)",
       "education": "PhD candidate in Computer Science"
     }
+  },
+  "paging": {
+    "previous": "Previous",
+    "next": "Next"
+  },
+  "contact_form": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "type": "Type",
+    "type_creator": "Creator",
+    "type_brand": "Brand",
+    "submit_button": "Send",
+    "place_holder_name": "Full Name",
+    "place_holder_email": "example{'@'}domain{'.'}com",
+    "place_holder_message": "Type your message"
+  },
+  "blog": {
+    "publication": "Published on",
+    "revision": "Revised on"
   }
 }
